@@ -23,8 +23,8 @@ This is a simple web application that allows users to search Wikipedia articles 
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/wiki-search-app.git
-    cd wiki-search-app
+    git clone https://github.com/yourusername/wikipediaSearch
+    cd wikipediaSearch
     ```
 
 2. **Ensure you have a live server running**:
